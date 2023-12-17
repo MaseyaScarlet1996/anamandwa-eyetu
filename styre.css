@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+    background-color: #044463;
+
+}
+.box{
+    position:relative;
+    max-width: 600px;
+    padding: 50px;
+    background: rgba(250, 250,250, .2);
+}
+p{
+    margin: 0 00 20px;
+    padding: 0;
+    font-size: 48px;
+    text-transform: uppercase;
+    color: #044463;
+}
